@@ -12,7 +12,7 @@ import Skills from "./components/Skills";
 
 const App = () => {
   return (
-    <div>
+    <div className="">
       <Navbar />
       <Bot />
       <Hero />

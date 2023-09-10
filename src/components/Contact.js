@@ -59,7 +59,7 @@ const Contact = () => {
 
                                             </div>
 
-                                            <p className="text-xl hover:text-cyan-200">{contact.text}</p>
+                                            <p className="text-sm hover:text-cyan-200">{contact.text}</p>
 
                                         </div>
                                     );
