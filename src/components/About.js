@@ -27,7 +27,7 @@ const About = () => {
                         <div className="text-gray-300 ">
 
                             <p className="text-justify leading-7 mx-auto">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            I am Shahajalal Badsha, a computer student passionate about font development. In a world where technology meets design, I find my creative niche. My journey as a font developer allows me to craft not just letters, but visual experiences that enhance digital content. With every stroke and curve, I shape how people perceive and interact with written information. Typography is not just a skill; it's an art that combines aesthetics and functionality. As I continue my studies and professional growth, I eagerly embrace new technologies, stay attuned to industry trends, and continually refine my craft. My dedication to the world of fonts drives me to create typefaces that leave a lasting impact on design and communication.
                             </p>
 
                             <div className="flex mt-10 items-center gap-7 justify-center">

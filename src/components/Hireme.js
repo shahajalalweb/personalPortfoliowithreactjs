@@ -16,7 +16,7 @@ const Hireme = () => {
                         Do you want any work from me ?
                     </h2> 
                     <p className="max-w-md lg:max-w-lg md:text-left text-justify  text-sm mt-4 text-gray-200 leading-6">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        "Welcome to my portfolio! I'm Shahajalal Badsha, a computer student and passionate font developer. I specialize in crafting unique and aesthetically pleasing typefaces that elevate the visual experience of digital content. With a keen eye for detail and a commitment to that demands exceptional typography, I invite you to get in touch. Let's transform your ideas into stunning fonts that leave a lasting impression."
                     </p>
                     <button className="btn-primary mt-10">Say hello</button>
                 </div>
