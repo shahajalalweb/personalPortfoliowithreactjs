@@ -6,10 +6,10 @@ const Hero = () => {
 
     const social_here = [
         {
-            logo: 'bi-facebook', link: "https://www.facebook.com/shahajalal38"
+            logo: 'bi-facebook', link: "https://www.facebook.com/shahajalalbadsha914"
         },
         {
-            logo: 'bi-instagram', link: "https://www.instagram.com/shahajalalbadsha5"
+            logo: 'bi-instagram', link: "https://www.instagram.com/shahajalal.mithi"
         },
         {
             logo: 'bi-linkedin', link: ""
